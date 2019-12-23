@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/wifi_station/tianqi/tianqi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "拉取OneNet数据",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": false,
+  "sitemapLocation": "sitemap.json"
+}
